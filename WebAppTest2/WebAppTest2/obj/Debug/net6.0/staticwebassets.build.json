@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "bunBDDvbqtjAPRDssuXruuH/oeEpkEJtRwrlSSGZgOs=",
+  "Source": "WebAppTest2",
+  "BasePath": "_content/WebAppTest2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAppTest2\\wwwroot",
+      "Source": "WebAppTest2",
+      "ContentRoot": "D:\\courses\\task4\\WebAppTest2\\WebAppTest2\\wwwroot\\",
+      "BasePath": "_content/WebAppTest2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\courses\\task4\\WebAppTest2\\WebAppTest2\\wwwroot\\index.html",
+      "SourceId": "WebAppTest2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\courses\\task4\\WebAppTest2\\WebAppTest2\\wwwroot\\",
+      "BasePath": "_content/WebAppTest2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
